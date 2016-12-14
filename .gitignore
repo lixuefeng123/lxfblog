@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings
+.metadata
+*.recommenders
+.externalToolBuilders/
+maven-eclipse.xml
+target
+*.class
+.idea
+*.iml
+*.log
+*.jar
+hsf/
+hsf.configuration/
+config.client.log*
+hsf.log*
